@@ -1,0 +1,10 @@
+2026-03-14 22:31:50,352 level=INFO app=myapp component=backend Information: Application running normally
+2026-03-14 22:31:51,358 level=WARNING app=myapp component=database Warning: Resource usage high
+2026-03-14 22:31:52,363 level=ERROR app=myapp component=database Critical error: Database connection lost
+2026-03-14 22:31:53,367 level=INFO app=myapp component=database Information: Application running normally
+2026-03-14 22:31:54,368 level=WARNING app=myapp component=database Warning: Resource usage high
+2026-03-14 22:31:55,374 level=ERROR app=myapp component=backend Critical error: Database connection lost
+2026-03-14 22:31:56,378 level=INFO app=myapp component=backend Information: Application running normally
+2026-03-14 22:31:57,382 level=WARNING app=myapp component=database Warning: Resource usage high
+2026-03-14 22:31:58,386 level=ERROR app=myapp component=database Critical error: Database connection lost
+2026-03-14 22:31:59,390 level=INFO app=myapp component=database Information: Application running normally
